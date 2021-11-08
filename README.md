@@ -7,3 +7,12 @@ Rules regarding Issues:
   3) If you find an issue with the website(https://airplaneboy14mc.github.io/craftingplusplus) make a ticket for it(custom error tag being added soon)
   4) If you have an idea regarding how to fix an issue that is [OPEN] please leave a comment that describes in detail how best for fix the issue
   5) In general don't be stupid. (Don't add unnecessary comments, spam links, pretend to moderate, leave fake advice, bully, harrass, or do any of that stuff here or anywhere)
+
+
+Issue Ranking System:
+  Rank 1 and Rank 6) Critical Error with the website, highest priority with the website
+  Rank 2) High priority, but not the end of the world
+  Rank 3) Medium priority, will be fixed eventually, but higher priority tasks will be completed first
+  Rank 4) Low priority, will be fixed at some point, but this issue is relatively harmless
+  Rank 5) Lowest priority, will most likely be fixed, but this issue has no effect on the consumer use of this website
+  Rank 6) See [Rank 1 and Rank 6 above]
