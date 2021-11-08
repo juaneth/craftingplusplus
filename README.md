@@ -10,9 +10,9 @@ Rules regarding Issues:
 
 
 Issue Ranking System:
-  Rank 1 and Rank 6) Critical Error with the website, highest priority with the website
-  Rank 2) High priority, but not the end of the world
-  Rank 3) Medium priority, will be fixed eventually, but higher priority tasks will be completed first
-  Rank 4) Low priority, will be fixed at some point, but this issue is relatively harmless
-  Rank 5) Lowest priority, will most likely be fixed, but this issue has no effect on the consumer use of this website
-  Rank 6) See [Rank 1 and Rank 6 above]
+  - Rank 1 and Rank 6) Critical Error with the website, highest priority with the website
+  - Rank 2) High priority, but not the end of the world
+  - Rank 3) Medium priority, will be fixed eventually, but higher priority tasks will be completed first
+  - Rank 4) Low priority, will be fixed at some point, but this issue is relatively harmless
+  - Rank 5) Lowest priority, will most likely be fixed, but this issue has no effect on the consumer use of this website
+  - Rank 6) See [Rank 1 and Rank 6 above]
