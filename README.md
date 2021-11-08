@@ -1,0 +1,1 @@
+Crafting Plus+ is datapack for people who want to craft/smelt things with convenience, you can make an issue ticket if you experience issues with it, you can also make a feature ticket if you want a new feature to be added. This is a beta version that is published. There are also some uhh...secret features of this datapack.
